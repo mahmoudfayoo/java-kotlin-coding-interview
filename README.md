@@ -1,4 +1,4 @@
-# Coding Interview: Rock Paper Scissors
+﻿# Coding Interview: Rock Paper Scissors
 
 ## The Task
 
